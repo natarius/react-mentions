@@ -3,8 +3,9 @@
 /reports
 /coverage
 /demo/dist
-/dist
 /demo/build
+
+.idea
 
 npm-debug.log*
 
